@@ -39,5 +39,5 @@ While evaluating your code, we will look at the following:
 * Your ability to explain and describe your design choices (in the code)
 * Your creativity as a developer
 
-You are expected to complete the task within 15-20 days.
+You are expected to complete the task within a week.
 
